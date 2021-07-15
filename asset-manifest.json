@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/userapi/static/css/main.864a3cab.chunk.css",
+    "main.js": "/userapi/static/js/main.580731c6.chunk.js",
+    "main.js.map": "/userapi/static/js/main.580731c6.chunk.js.map",
+    "runtime-main.js": "/userapi/static/js/runtime-main.b2860e26.js",
+    "runtime-main.js.map": "/userapi/static/js/runtime-main.b2860e26.js.map",
+    "static/css/2.150d169a.chunk.css": "/userapi/static/css/2.150d169a.chunk.css",
+    "static/js/2.a7ee0e06.chunk.js": "/userapi/static/js/2.a7ee0e06.chunk.js",
+    "static/js/2.a7ee0e06.chunk.js.map": "/userapi/static/js/2.a7ee0e06.chunk.js.map",
+    "static/js/3.c4d7d99c.chunk.js": "/userapi/static/js/3.c4d7d99c.chunk.js",
+    "static/js/3.c4d7d99c.chunk.js.map": "/userapi/static/js/3.c4d7d99c.chunk.js.map",
+    "index.html": "/userapi/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/userapi/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.864a3cab.chunk.css.map": "/userapi/static/css/main.864a3cab.chunk.css.map",
+    "static/js/2.a7ee0e06.chunk.js.LICENSE.txt": "/userapi/static/js/2.a7ee0e06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2860e26.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.a7ee0e06.chunk.js",
+    "static/css/main.864a3cab.chunk.css",
+    "static/js/main.580731c6.chunk.js"
+  ]
+}
